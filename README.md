@@ -77,9 +77,12 @@ Admin Panel -> Agents -> Teams
 </p>
 <br />
 
-
-<p>
-5. Allow anyone to create tickets:
+ <p>
+<img src="https://imgur.com/0gEN48I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>                                                                                              
+                                                                                               
+                                                                                               
+<p> 5. Allow anyone to create tickets: Make sure "Registration Required" section remains unchecked.
 Admin Panel -> Settings -> User Settings
 
 </p>
