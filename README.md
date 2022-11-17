@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Installation Setup </h1>
-This tutorial outlines the post-installation setup of osTicket. This setup includes creating agents, users, departments, teams, and roles. Different types of SLAS's will be configured as well that outlines the ranges in severity of the tickets we will be creating.<br />
+This tutorial outlines the post-installation setup of osTicket. This setup includes creating agents, users, departments, teams, and roles. Different types of SLA's will be configured as well that outlines the ranges in severity of the tickets we will be creating.<br />
 
 
 <h2>Environments and Technologies Used</h2>
