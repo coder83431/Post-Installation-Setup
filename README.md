@@ -46,7 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
  <p>
-1. Configure roles within osTicket: Admin Panel -> Agents -> Roles and Supreme Admin
+2. Configure roles within osTicket: Admin Panel -> Agents -> Roles and Supreme Admin
 
 </p>                                                                                                    
                                                                                                      
@@ -58,7 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
                                                                                                  
                                                                                                  
                                                                                                  
-2. Configure Departments:
+3. Configure Departments:
 Admin Panel -> Agents -> Departments
                                                                                                 
 </p>
@@ -71,7 +71,7 @@ Admin Panel -> Agents -> Departments
                                                                                                
 <p>
 
-3. Configure Teams:
+4. Configure Teams:
 Admin Panel -> Agents -> Teams
 
 </p>
@@ -79,7 +79,7 @@ Admin Panel -> Agents -> Teams
 
 
 <p>
-4. Allow anyone to create tickets:
+5. Allow anyone to create tickets:
 Admin Panel -> Settings -> User Settings
 
 </p>
@@ -95,7 +95,7 @@ Admin Panel -> Settings -> User Settings
                                                                                                
                                                                                                
 <p>
-5. Configure Agents (workers):
+6. Configure Agents (workers):
 Admin Panel -> Agents -> Add New
 
 </p>
@@ -105,7 +105,7 @@ Admin Panel -> Agents -> Add New
 <img src="https://imgur.com/443AMLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Configure Users (customers):
+7. Configure Users (customers):
 Agent Panel -> Users -> Add New
 
 </p>
@@ -120,7 +120,7 @@ Agent Panel -> Users -> Add New
 </p>                                                                                               
                                                                                                
 <p>
-7. Configure SLA:
+8. Configure SLA:
 Admin Panel -> Manage -> SLA
 
 </p>
@@ -130,26 +130,22 @@ Admin Panel -> Manage -> SLA
 <img src="https://imgur.com/n9CjduH.png"
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
 <p>
-8. Configure Help Topics:
+<img src="https://imgur.com/yYxg95n.png"
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+9. Configure Help Topics:
 Admin Panel -> Manage -> Help Topics
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/U0zZqC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-9. Congratulations! Now you have learned how to create both users, departments, and ticks on osTicket.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/IdTzZWd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-10. Download And Install HeidiSQL.
+10. Congratulations! Now you have learned how to create both users, departments, and ticks on osTicket.
 </p>
 <br />
 
