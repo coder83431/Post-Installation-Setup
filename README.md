@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation </h1>
+<h1>osTicket - Post-Installation Setup </h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -36,7 +36,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src = "https://i.imgur.com/GFYFR0R.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  <p>
-1. Create a resource group in Azure.
+1. Configure roles within osTicket.
+a.Admin Panel -> Agents -> Roles
+b.Supreme Admin
+
 </p>                                                                                                    
                                                                                                      
 <p>
@@ -47,7 +50,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
                                                                                                  
                                                                                                  
                                                                                                  
-2. Create a virtual machine within Azure.
+2. Configure Departments
+Admin Panel -> Agents -> Departments
+                                                                                                v
 </p>
 <br />
 
@@ -55,7 +60,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/dDY9AQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Open Remote Desktop.
+
+3. Configure Teams
+Admin Panel -> Agents -> Teams
+
 </p>
 <br />
 
@@ -63,7 +71,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Install/ Enable IIS (Internet Information Services). Windows Control Pannel < Programs and Feautures
+4. Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings
+
 </p>
 <br />
 
@@ -71,9 +81,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/yt4ZPAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Install "Microsoft Web Platform Installer".
-      - Add "MySQL 5.5"
-      - Add All Simple Versions Of X86PHP Up Until 7.3
+5. Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+
 </p>
 <br />
 
@@ -81,7 +91,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/8ob8uQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Install osTicket v1.15.8.
+6. Configure Users (customers)
+Agent Panel -> Users -> Add New
+
 </p>
 <br />
 
@@ -89,7 +101,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/SbhSS6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Go Back To IIS, Sites->Default->osTicket, Double click PHP Manager, Enable PHP_imap.dll, Enable PHP_intl.dll, Enable PHP_opcache.dll
+7. Configure SLA
+Admin Panel -> Manage -> SLA
+
 </p>
 <br />
 
@@ -97,7 +111,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/wVSvcC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Rename File To OST-Config.PHP And Assign Permissions To File.
+8. Configure Help Topics
+Admin Panel -> Manage -> Help Topics
+
 </p>
 <br />
 
@@ -105,9 +121,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/U0zZqC1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9. Continue Setting Up OsTicket In Browser.
-  -Name Help Desk
-  -Add Default Email
+9. Congratulations! Now you have learned how to create both users, departments, and ticks on osTicket.
 </p>
 <br />
 
@@ -119,10 +133,3 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/0LOpcLJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-11. OsTicket Is Ready. 
-</p>
-<br />
