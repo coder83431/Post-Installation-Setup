@@ -36,9 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src = "https://i.imgur.com/GFYFR0R.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  <p>
-1. Configure roles within osTicket.
-a.Admin Panel -> Agents -> Roles
-b.Supreme Admin
+1. Configure roles within osTicket: Admin Panel -> Agents -> Roles and Supreme Admin
 
 </p>                                                                                                    
                                                                                                      
@@ -50,9 +48,9 @@ b.Supreme Admin
                                                                                                  
                                                                                                  
                                                                                                  
-2. Configure Departments
+2. Configure Departments:
 Admin Panel -> Agents -> Departments
-                                                                                                v
+                                                                                                
 </p>
 <br />
 
@@ -61,7 +59,7 @@ Admin Panel -> Agents -> Departments
 </p>
 <p>
 
-3. Configure Teams
+3. Configure Teams:
 Admin Panel -> Agents -> Teams
 
 </p>
@@ -71,7 +69,7 @@ Admin Panel -> Agents -> Teams
 <img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Allow anyone to create tickets
+4. Allow anyone to create tickets:
 Admin Panel -> Settings -> User Settings
 
 </p>
@@ -81,7 +79,7 @@ Admin Panel -> Settings -> User Settings
 <img src="https://i.imgur.com/yt4ZPAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Configure Agents (workers)
+5. Configure Agents (workers):
 Admin Panel -> Agents -> Add New
 
 </p>
@@ -91,7 +89,7 @@ Admin Panel -> Agents -> Add New
 <img src="https://i.imgur.com/8ob8uQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Configure Users (customers)
+6. Configure Users (customers):
 Agent Panel -> Users -> Add New
 
 </p>
@@ -101,7 +99,7 @@ Agent Panel -> Users -> Add New
 <img src="https://i.imgur.com/SbhSS6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Configure SLA
+7. Configure SLA:
 Admin Panel -> Manage -> SLA
 
 </p>
@@ -111,7 +109,7 @@ Admin Panel -> Manage -> SLA
 <img src="https://i.imgur.com/wVSvcC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. Configure Help Topics
+8. Configure Help Topics:
 Admin Panel -> Manage -> Help Topics
 
 </p>
