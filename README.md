@@ -31,17 +31,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>Overview</p>
+                                                                                                     
+<p>
+ <img src = "https://imgur.com/6NREZBJ.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ 
+</p>                                                                                                  
+<p>1. Sign into osTicket as a agent. 
+                                                                                                
+</p>
 
 <p>
-<img src = "https://i.imgur.com/GFYFR0R.png" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src =  "https://imgur.com/aX4MTpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
  <p>
 1. Configure roles within osTicket: Admin Panel -> Agents -> Roles and Supreme Admin
 
 </p>                                                                                                    
                                                                                                      
 <p>
-<img src= "https://i.imgur.com/Pk3J6Rk.png" " height="80%" width="80%" alt="Disk Sanitization Steps" />
+<img src= "https://imgur.com/q0GnMIU.png" " height="80%" width="80%" alt="Disk Sanitization Steps" />
 </p>
 
 <p>
@@ -55,8 +65,10 @@ Admin Panel -> Agents -> Departments
 <br />
 
 <p>
-<img src="https://i.imgur.com/dDY9AQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0phoHoR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+                                                                                                                                                                                            
+                                                                                               
 <p>
 
 3. Configure Teams:
@@ -65,9 +77,7 @@ Admin Panel -> Agents -> Teams
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/PB1vmBe.png" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 4. Allow anyone to create tickets:
 Admin Panel -> Settings -> User Settings
@@ -76,8 +86,14 @@ Admin Panel -> Settings -> User Settings
 <br />
 
 <p>
-<img src="https://i.imgur.com/yt4ZPAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9uBbnwf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+  
+<p>
+<img src="https://imgur.com/kjmoNRP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>                                                                                                 
+                                                                                               
+                                                                                               
 <p>
 5. Configure Agents (workers):
 Admin Panel -> Agents -> Add New
@@ -86,7 +102,7 @@ Admin Panel -> Agents -> Add New
 <br />
 
 <p>
-<img src="https://i.imgur.com/8ob8uQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/443AMLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6. Configure Users (customers):
@@ -96,8 +112,13 @@ Agent Panel -> Users -> Add New
 <br />
 
 <p>
-<img src="https://i.imgur.com/SbhSS6V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZZAtNLy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+                                                                                               
+<p>
+<img src="https://imgur.com/GFE54nV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>                                                                                               
+                                                                                               
 <p>
 7. Configure SLA:
 Admin Panel -> Manage -> SLA
@@ -106,7 +127,8 @@ Admin Panel -> Manage -> SLA
 <br />
 
 <p>
-<img src="https://i.imgur.com/wVSvcC6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/n9CjduH.png"
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8. Configure Help Topics:
