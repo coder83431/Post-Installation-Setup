@@ -145,7 +145,7 @@ Admin Panel -> Manage -> Help Topics
 <br />
 
 <p>
-10. Congratulations! Now you have learned how to create both users, departments, and ticks on osTicket.
+10. Congratulations! Now you have learned how to create both users, departments, and tickets on osTicket.
 </p>
 <br />
 
